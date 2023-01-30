@@ -16,7 +16,7 @@ A little bit about me:
 
 <div align="center">
 <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioPacheco&theme=tokyonight"/> 
- ##
+ 
 </div>
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
