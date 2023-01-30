@@ -1,16 +1,31 @@
-### Hi there 👋
+### Howdy 👋
+I'm Caio, a Software Engineering student at Unb - Universidade of Brasília.
 
-<!--
-**CaioPacheco/CaioPacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A little bit about me:
+- 🔭 I’m currently working on: my degree ;)
+- 📫 How to reach me: don't. (jk, use my email at the bottom)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like Hockey 🏒
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/CaioPacheco">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioPacheco&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioPacheco&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioPacheco&theme=tokyonight"/> 
+ ##
+</div>
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+##
+ 
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caio.p_/)
+ 
+ </div>
+ Get a hold of me at <a href=mailto:"caiopachecos29@gmail.com">caiopachecos29@gmail.com</a>
