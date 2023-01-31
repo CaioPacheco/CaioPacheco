@@ -1,11 +1,11 @@
-### Howdy 👋
-I'm Caio, a Software Engineering student at Unb - Universidade of Brasília.
+# Howdy 👋
+I'm Caio, a Software Engineering student at Unb - Universidade de Brasília.
 
-A little bit about me:
-- 🔭 I’m currently working on: my degree ;)
-- 📫 How to reach me: don't. (jk, use my email at the bottom)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like Hockey 🏒
+### A little bit about me:
+  - 🔭 **I’m currently working on:** my degree ;)
+  - 📫 **How to reach me:** use the e-mail at bottom
+  - 😄 **Pronouns:** he/him
+  - ⚡ **Fun fact:** I like hockey 🏒
 
 <div align="center">
   <a href="https://github.com/CaioPacheco">
