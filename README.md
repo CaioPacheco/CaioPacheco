@@ -1,5 +1,5 @@
 # Howdy 👋
-I'm Caio, a <a href="https://fga.unb.br/software">Software Engineering</a> student at Unb - Universidade de Brasília.
+I'm Caio, a <a href="https://fga.unb.br/software" target="_blank">Software Engineering</a> student at Unb - Universidade de Brasília.
 
 ### A little bit about me:
   - 🔭 **I’m currently working on:** my degree ;)
@@ -8,7 +8,7 @@ I'm Caio, a <a href="https://fga.unb.br/software">Software Engineering</a> stude
   - ⚡ **Fun fact:** I like ice hockey 🏒
 
 <br>
-Get a hold of me at <a href=mailto:"caiopachecos29@gmail.com">caiopachecos29@gmail.com</a>
+Get a hold of me at <a href=mailto:"caiopachecos29@gmail.com" target="_blank">caiopachecos29@gmail.com</a>
 <br><br>
 Also, check out some of my <a href="https://github.com/CaioPacheco/Python-Projects">Python Projects</a>.
 <br>
