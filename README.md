@@ -1,11 +1,12 @@
 # Howdy 👋
-I'm Caio, a <a href="https://fga.unb.br/software" target="_blank">Software Engineering</a> student at Unb - Universidade de Brasília.
+I'm Caio, a <a href="http://software.unb.br" target="_blank">Software Engineering</a> student at Unb - Universidade de Brasília.
 
 ### A little bit about me:
-  - 🔭 **I’m currently working on:** my degree ;)
-  - 📫 **How to reach me:** use the e-mail
-  - 😄 **Pronouns:** he/him
-  - ⚡ **Fun fact:** I like ice hockey 🏒
+  - 🔭 ***I’m currently working on:***  my degree ;)
+  - 📫 ***How to reach me:***  use the e-mail bellow👇🏻
+  - 😄 ***Pronouns:***  he/him
+  - ⚡ ***Fun fact:***  I like ice hockey 🏒
+  - 🎯 ***I'm looking for:***  any kind of experience, I want to learn!
 
 <br>
 Get a hold of me at <a href=mailto:"caiopachecos29@gmail.com" target="_blank">caiopachecos29@gmail.com</a>
