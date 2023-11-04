@@ -11,7 +11,7 @@ I'm Caio, a <a href="http://software.unb.br" target="_blank">Software Engineerin
 <br>
 Get a hold of me at <a href=mailto:"caiopachecos29@gmail.com" target="_blank">caiopachecos29@gmail.com</a>
 <br><br>
-Also, check out some of my <a href="https://github.com/CaioPacheco/Python-Projects">Python Projects</a>.
+Also, check out my <a href="https://www.linkedin.com/in/pachecocaio/">LinkedIn</a>.
 <br>
 <br>
 <br>
