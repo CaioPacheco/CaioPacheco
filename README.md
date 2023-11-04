@@ -15,12 +15,7 @@ Also, check out my <a href="https://www.linkedin.com/in/pachecocaio/">LinkedIn</
 <br>
 <br>
 <br>
-<div align="center">
-  <a href="https://github.com/CaioPacheco">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioPacheco&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&show_owner=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioPacheco&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
+
 
 <div align="center">
 <img height="190em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioPacheco&theme=tokyonight"/> 
